@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="100" maximum="900" default="100">
+      <map input="100" output="100"/>
+      <map input="200" output="200"/>
+      <map input="300" output="300"/>
+      <map input="400" output="400"/>
+      <map input="500" output="500"/>
+      <map input="600" output="600"/>
+      <map input="700" output="700"/>
+      <map input="900" output="900"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Wasabe-Thin.ufo" familyname="Wasabe" stylename="Thin">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Wasabe-Black.ufo" familyname="Wasabe" stylename="Black">
+      <location>
+        <dimension name="weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Wasabe-Thin" familyname="Wasabe" stylename="Thin" filename="instances/Wasabe-Thin.ufo" stylemapfamilyname="Wasabe Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+    </instance>
+    <instance name="Wasabe-ExtraLight" familyname="Wasabe" stylename="ExtraLight" filename="instances/Wasabe-ExtraLight.ufo" stylemapfamilyname="Wasabe ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="weight" xvalue="200"/>
+      </location>
+    </instance>
+    <instance name="Wasabe-Light" familyname="Wasabe" stylename="Light" filename="instances/Wasabe-Light.ufo" stylemapfamilyname="Wasabe Light" stylemapstylename="regular">
+      <location>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance name="Wasabe-Regular" familyname="Wasabe" stylename="Regular" filename="instances/Wasabe-Regular.ufo" stylemapfamilyname="Wasabe" stylemapstylename="regular">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance name="Wasabe-Medium" familyname="Wasabe" stylename="Medium" filename="instances/Wasabe-Medium.ufo" stylemapfamilyname="Wasabe Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+      </location>
+    </instance>
+    <instance name="Wasabe-SemiBold" familyname="Wasabe" stylename="SemiBold" filename="instances/Wasabe-SemiBold.ufo" stylemapfamilyname="Wasabe SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="weight" xvalue="600"/>
+      </location>
+    </instance>
+    <instance name="Wasabe-Bold" familyname="Wasabe" stylename="Bold" filename="instances/Wasabe-Bold.ufo" stylemapfamilyname="Wasabe" stylemapstylename="regular">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+      </location>
+    </instance>
+    <instance name="Wasabe-Black" familyname="Wasabe" stylename="Black" filename="instances/Wasabe-Black.ufo" stylemapfamilyname="Wasabe Black" stylemapstylename="regular">
+      <location>
+        <dimension name="weight" xvalue="900"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

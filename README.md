@@ -13,11 +13,11 @@ This project is currently under development. Please use caution when using the f
 | --- | :---: |
 | Thin | 100 |
 | ExtraLight | 200 |
-| Light | 300 |
-| Regular | 400 |
-| Medium | 500 |
-| SemiBold | 600 |
-| Bold | 700 |
+| Light | 310 |
+| Regular | 420 |
+| Medium | 530 |
+| SemiBold | 640 |
+| Bold | 750 |
 | Black | 900 |
 
 ## Plans

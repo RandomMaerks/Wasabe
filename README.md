@@ -5,6 +5,8 @@ Wasabe is a fork / rework of the typeface [Teriyake](https://github.com/the3ash/
 This project is currently under development. Please use caution when using the fonts.
 
 <img src="https://github.com/RandomMaerks/Wasabe/blob/main/documentation/wasabe-a1.png" />
+<img src="https://github.com/RandomMaerks/Wasabe/blob/main/documentation/wasabe-a3.png" />
+<img src="https://github.com/RandomMaerks/Wasabe/blob/main/documentation/wasabe-a4.gif" />
 
 ## Styles
 | Style name | wght |
